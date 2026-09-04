@@ -1,6 +1,6 @@
 ---
 name: table-slice-parse
-description: 长表格截图切片解析为结构化表格。检测表格结构→横线切割→MinerU强制表格识别→智能拼接校验→输出CSV/Markdown。适用于超长电缆表、清单明细表、多行单元格表格，解决OCR识别不全/列错位/空行/被识别为纯文本等问题。
+description: 长表格截图切片解析为结构化表格。检测表格结构→横线切割→MinerU强制表格识别→智能拼接校验→输出CSV/Markdown。适用于超长清单表、明细表、多行单元格表格，解决OCR识别不全/列错位/空行/被识别为纯文本等问题。
 license: MIT
 compatibility: opencode
 metadata:
