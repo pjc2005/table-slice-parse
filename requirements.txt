@@ -1,0 +1,4 @@
+# 系统 Python 依赖（cut_only / smart_merge / detect_structure 用）
+numpy
+pillow
+opencv-python

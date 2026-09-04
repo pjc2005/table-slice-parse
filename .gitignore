@@ -1,0 +1,6 @@
+# MinerU 技能包 / 环境 / 日志
+mineru-venv/
+__pycache__/
+*.pyc
+*.log
+*.zip
